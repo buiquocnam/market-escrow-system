@@ -43,11 +43,8 @@ typechain-types/
 .agents/
 .gemini/
 antigravity/
-implementation_plan.md
-task.md
-walkthrough.md
+
 
 # Documents & Research (User requested)
 docs/
-*.md
-!README.md
+
